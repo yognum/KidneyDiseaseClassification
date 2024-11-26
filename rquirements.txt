@@ -1,0 +1,8 @@
+tensorflow
+mlflow
+pandas
+matplotlib
+pyYAML
+joblib
+gdown
+dvc
