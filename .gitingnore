@@ -1,0 +1,6 @@
+# Custom ignore patterns
+*.log
+artifects/
+*.zip
+__pycache__/
+*.pyc
